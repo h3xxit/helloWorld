@@ -1,0 +1,17 @@
+h1{
+    color: gray;
+    font-style: italic;
+}
+
+#FirstP{
+    color: greenyellow;
+}
+
+p{
+    color: hotpink;
+    font-weight: 800;
+}
+
+.underlineText{
+    text-decoration: underline;
+}
