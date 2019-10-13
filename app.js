@@ -1,2 +1,2 @@
-navigator.vibrate([500, 0, 1000, 0, 1000, 0, 200]);
+navigator.vibrate([200, 100, 200]);
 alert("Salut!");
